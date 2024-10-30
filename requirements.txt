@@ -1,0 +1,8 @@
+Job Application Tracker (Without Authentication)
+
+Job Application Details
+- Job Title
+- Company Name
+- Date Applied
+- Application Status
+- Notes
